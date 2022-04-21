@@ -17,4 +17,4 @@ I have always been very interested in technology and decided to dive deeper into
 
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Profile](https://www.linkedin.com/in/daniel-k%C3%B6tt-84a254229/)
+[Profile](https://www.linkedin.com/in/daniel-k%C3%B6tt-84a254229/)
