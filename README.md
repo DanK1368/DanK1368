@@ -18,3 +18,7 @@ I have always been very interested in technology and decided to dive deeper into
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 [Profile](https://www.linkedin.com/in/daniel-k%C3%B6tt-84a254229/)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanK1368&show_icons=true&theme=radical) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
